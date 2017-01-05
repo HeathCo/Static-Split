@@ -1,7 +1,8 @@
 # Static Split
 
- A Static Site A/B Testing Tool that preserves canonical URLs
- **-- In Development --**
+**-- In Development --**
+A Static Site A/B Testing Tool that preserves canonical URLs
+
  
 ###What Is It
 Static Split allows static sites to easily A/B test landing pages while preserving the canonical URL of the original URL path.
